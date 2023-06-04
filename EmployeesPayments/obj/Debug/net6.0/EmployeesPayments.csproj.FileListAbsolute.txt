@@ -1,0 +1,15 @@
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\bin\Debug\net6.0\EmployeesPayments.exe
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\bin\Debug\net6.0\EmployeesPayments.deps.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\bin\Debug\net6.0\EmployeesPayments.runtimeconfig.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\bin\Debug\net6.0\EmployeesPayments.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\bin\Debug\net6.0\EmployeesPayments.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.csproj.AssemblyReference.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.AssemblyInfoInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.AssemblyInfo.cs
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.csproj.CoreCompileInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\refint\EmployeesPayments.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\EmployeesPayments.genruntimeconfig.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\EmployeesPayments\obj\Debug\net6.0\ref\EmployeesPayments.dll
