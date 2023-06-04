@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation", "HotelRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files1", "Files1\Files1.csproj", "{EAEFA909-0CB5-4B9D-A93D-8E064E174152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files2", "Files2\Files2.csproj", "{15203640-44AB-4F3B-93A4-C92FCA0C1314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EAEFA909-0CB5-4B9D-A93D-8E064E174152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAEFA909-0CB5-4B9D-A93D-8E064E174152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAEFA909-0CB5-4B9D-A93D-8E064E174152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15203640-44AB-4F3B-93A4-C92FCA0C1314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15203640-44AB-4F3B-93A4-C92FCA0C1314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15203640-44AB-4F3B-93A4-C92FCA0C1314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15203640-44AB-4F3B-93A4-C92FCA0C1314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
