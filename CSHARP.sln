@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary1", "Dictionary1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod1", "ExtensionMethod1\ExtensionMethod1.csproj", "{757101C8-60AB-4171-9087-2226DF140384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate1", "Delegate1\Delegate1.csproj", "{AB202EAD-8C06-4067-A954-17DAF379F336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{757101C8-60AB-4171-9087-2226DF140384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757101C8-60AB-4171-9087-2226DF140384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757101C8-60AB-4171-9087-2226DF140384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB202EAD-8C06-4067-A954-17DAF379F336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB202EAD-8C06-4067-A954-17DAF379F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB202EAD-8C06-4067-A954-17DAF379F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB202EAD-8C06-4067-A954-17DAF379F336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
