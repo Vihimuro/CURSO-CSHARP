@@ -1,0 +1,15 @@
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\bin\Debug\net6.0\CarRentalWithoutInterface.exe
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\bin\Debug\net6.0\CarRentalWithoutInterface.deps.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\bin\Debug\net6.0\CarRentalWithoutInterface.runtimeconfig.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\bin\Debug\net6.0\CarRentalWithoutInterface.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\bin\Debug\net6.0\CarRentalWithoutInterface.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.csproj.AssemblyReference.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.AssemblyInfoInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.AssemblyInfo.cs
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.csproj.CoreCompileInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\refint\CarRentalWithoutInterface.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\CarRentalWithoutInterface.genruntimeconfig.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\CarRentalWithoutInterface\obj\Debug\net6.0\ref\CarRentalWithoutInterface.dll

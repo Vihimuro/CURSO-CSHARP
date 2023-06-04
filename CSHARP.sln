@@ -5,19 +5,23 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerContracts", "WorkerContracts\WorkerContracts.csproj", "{1D0B934F-3A70-4181-8F84-851BE5C61640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance1", "Inheritance1\Inheritance1.csproj", "{4179719B-209F-4E44-8F29-2603A40D5097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance1", "Inheritance1\Inheritance1.csproj", "{4179719B-209F-4E44-8F29-2603A40D5097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesPayments", "EmployeesPayments\EmployeesPayments.csproj", "{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesPayments", "EmployeesPayments\EmployeesPayments.csproj", "{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation", "HotelReservation\HotelReservation.csproj", "{111B92C2-77BE-49D5-9C93-DC987D903532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelReservation", "HotelReservation\HotelReservation.csproj", "{111B92C2-77BE-49D5-9C93-DC987D903532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files1", "Files1\Files1.csproj", "{EAEFA909-0CB5-4B9D-A93D-8E064E174152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files1", "Files1\Files1.csproj", "{EAEFA909-0CB5-4B9D-A93D-8E064E174152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files2", "Files2\Files2.csproj", "{15203640-44AB-4F3B-93A4-C92FCA0C1314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files2", "Files2\Files2.csproj", "{15203640-44AB-4F3B-93A4-C92FCA0C1314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files3", "Files3\Files3.csproj", "{847AFC56-7A52-44CA-A25C-79802290DC7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files3", "Files3\Files3.csproj", "{847AFC56-7A52-44CA-A25C-79802290DC7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files4", "Files4\Files4.csproj", "{ACC4FC9F-D724-4AD2-9502-A733DD573F46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files4", "Files4\Files4.csproj", "{ACC4FC9F-D724-4AD2-9502-A733DD573F46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files5", "Files5\Files5.csproj", "{A6B1B157-1B38-41A3-A4BA-37CFBF90B4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalWithoutInterface", "CarRentalWithoutInterface\CarRentalWithoutInterface.csproj", "{A39CCE36-8C4D-4AB7-B93B-5CA06F574798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{ACC4FC9F-D724-4AD2-9502-A733DD573F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC4FC9F-D724-4AD2-9502-A733DD573F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC4FC9F-D724-4AD2-9502-A733DD573F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B1B157-1B38-41A3-A4BA-37CFBF90B4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B1B157-1B38-41A3-A4BA-37CFBF90B4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B1B157-1B38-41A3-A4BA-37CFBF90B4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B1B157-1B38-41A3-A4BA-37CFBF90B4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39CCE36-8C4D-4AB7-B93B-5CA06F574798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39CCE36-8C4D-4AB7-B93B-5CA06F574798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39CCE36-8C4D-4AB7-B93B-5CA06F574798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39CCE36-8C4D-4AB7-B93B-5CA06F574798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
