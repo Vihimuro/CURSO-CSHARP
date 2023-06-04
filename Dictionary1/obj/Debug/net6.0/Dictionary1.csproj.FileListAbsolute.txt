@@ -1,0 +1,15 @@
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\bin\Debug\net6.0\Dictionary1.exe
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\bin\Debug\net6.0\Dictionary1.deps.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\bin\Debug\net6.0\Dictionary1.runtimeconfig.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\bin\Debug\net6.0\Dictionary1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\bin\Debug\net6.0\Dictionary1.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.csproj.AssemblyReference.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.AssemblyInfoInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.AssemblyInfo.cs
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\refint\Dictionary1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\Dictionary1.genruntimeconfig.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Dictionary1\obj\Debug\net6.0\ref\Dictionary1.dll

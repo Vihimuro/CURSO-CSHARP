@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCode_Equals", "HashCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set1", "Set1\Set1.csproj", "{C69F2C2C-B16B-4B28-9BF1-55E23DF6566F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary1", "Dictionary1\Dictionary1.csproj", "{9C68E22B-D0AA-408D-A530-C6CBFB4C3AD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C69F2C2C-B16B-4B28-9BF1-55E23DF6566F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C69F2C2C-B16B-4B28-9BF1-55E23DF6566F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C69F2C2C-B16B-4B28-9BF1-55E23DF6566F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C68E22B-D0AA-408D-A530-C6CBFB4C3AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C68E22B-D0AA-408D-A530-C6CBFB4C3AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C68E22B-D0AA-408D-A530-C6CBFB4C3AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C68E22B-D0AA-408D-A530-C6CBFB4C3AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
