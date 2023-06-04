@@ -1,0 +1,15 @@
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\bin\Debug\net6.0\Files1.exe
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\bin\Debug\net6.0\Files1.deps.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\bin\Debug\net6.0\Files1.runtimeconfig.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\bin\Debug\net6.0\Files1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\bin\Debug\net6.0\Files1.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.csproj.AssemblyReference.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.AssemblyInfoInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.AssemblyInfo.cs
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.csproj.CoreCompileInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\refint\Files1.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\Files1.genruntimeconfig.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\Files1\obj\Debug\net6.0\ref\Files1.dll
