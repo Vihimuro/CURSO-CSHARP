@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance1", "Inheritance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesPayments", "EmployeesPayments\EmployeesPayments.csproj", "{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation", "HotelReservation\HotelReservation.csproj", "{111B92C2-77BE-49D5-9C93-DC987D903532}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C96693A6-D1A8-4AF6-A7ED-86A9157BBF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111B92C2-77BE-49D5-9C93-DC987D903532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111B92C2-77BE-49D5-9C93-DC987D903532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111B92C2-77BE-49D5-9C93-DC987D903532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111B92C2-77BE-49D5-9C93-DC987D903532}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

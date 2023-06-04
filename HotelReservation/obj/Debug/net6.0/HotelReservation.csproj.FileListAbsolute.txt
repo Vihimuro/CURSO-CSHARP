@@ -1,0 +1,15 @@
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\bin\Debug\net6.0\HotelReservation.exe
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\bin\Debug\net6.0\HotelReservation.deps.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\bin\Debug\net6.0\HotelReservation.runtimeconfig.json
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\bin\Debug\net6.0\HotelReservation.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\bin\Debug\net6.0\HotelReservation.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.AssemblyReference.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfo.cs
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\refint\HotelReservation.dll
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.pdb
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\HotelReservation.genruntimeconfig.cache
+C:\Users\Himuro\source\repos\CURSO-CSHARP\HotelReservation\obj\Debug\net6.0\ref\HotelReservation.dll
