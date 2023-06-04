@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance1.Entities
 {
-    internal class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -22,10 +22,10 @@ namespace Inheritance1.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
             base.Withdraw(amount);
-            Balance -= 2;
+            Balance -= 2.0;
         }
 
     }
